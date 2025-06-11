@@ -112,7 +112,7 @@ Thank you for using ATM!
 ---
 
 ## 🎬 Demo Video
-📺 [Watch Demo on YouTube](https://www.youtube.com/your-demo-link-here)
+📺 [Watch Demo on YouTube](https://youtu.be/Va_AkhD3HsM)
 
 ---
 
@@ -122,11 +122,11 @@ A fully functional ATM simulation using Java OOP and collections. Reinforces rea
 ---
 
 ## 🔗 GitHub Repository
-📂 [GitHub – OIBSIP_JavaDevelopment_Task3](https://github.com/yourusername/OIBSIP_JavaDevelopment_Task1)
+📂 [GitHub – OIBSIP_JavaDevelopment_Task3](https://github.com/Jabinashajahan/OIBSIP_JavaDevelopment_Task3.git)
 
 ---
 ## 💼 LinkedIn Post
-🔗 [View LinkedIn Post](https://www.linkedin.com/in/your-linkedin-post-here)
+🔗 [View LinkedIn Post](https://www.linkedin.com/posts/jabinashajahan_oibsip-javaprojects-techinternship-activity-7332465069668163585-Z4QZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwlJWQBrrVRyb-KEVvIFvk6qd9bXG6DgAY)
 
 ---
 
